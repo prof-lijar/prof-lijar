@@ -32,16 +32,10 @@ mission: Building frameworks that make AI agents
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🔬 orchast_agent
 AI agent orchestration framework — coordinating multiple AI agents to solve complex tasks through structured collaboration.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 open-webui
-Contributing to open-source AI interfaces — making powerful AI accessible and deployable.
 
 </td>
 </tr>

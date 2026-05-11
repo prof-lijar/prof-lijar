@@ -34,7 +34,7 @@ mission: Building frameworks that make AI agents
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 orchast_agent
+### 🔬 [orchast_agent](https://github.com/prof-lijar/orchast_agent)
 AI agent orchestration framework — coordinating multiple AI agents to solve complex tasks through structured collaboration.
 
 </td>

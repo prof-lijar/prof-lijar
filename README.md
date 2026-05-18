@@ -8,18 +8,11 @@ Software engineer building practical systems with AI, product thinking, and clea
 
 </div>
 
-<!-- About -->
-## `> whoami`
+## About
 
-```yaml
-name: prof-lijar
-role: Software Engineer
-focus: AI systems, product engineering, and automation
-mission: Solve real problems with useful software
-```
+I build AI systems, product features, and automation that solve real problems without unnecessary noise.
 
-<!-- Current Work -->
-## `> cat current_projects.md`
+## Current Projects
 
 <table>
 <tr>

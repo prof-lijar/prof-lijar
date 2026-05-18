@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=prof-lijar&fontSize=60&fontColor=e6edf3&fontAlignY=35&desc=Orchestrate%20AI&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+# prof-lijar
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Software+Engineer+%7C+AI+Researcher;Building+the+future+of+AI+orchestration" alt="Typing SVG" />
-</a>
+### You have problems unsolved? We can be friends.
+
+Software engineer building practical systems with AI, product thinking, and clean execution.
 
 </div>
 
@@ -15,10 +13,9 @@
 
 ```yaml
 name: prof-lijar
-role: Software Engineer & AI Researcher
-focus: Orchestrating intelligent systems
-mission: Building frameworks that make AI agents
-         collaborate, reason, and act autonomously
+role: Software Engineer
+focus: AI systems, product engineering, and automation
+mission: Solve real problems with useful software
 ```
 
 <div align="center">
@@ -46,6 +43,3 @@ Vision-guided robot pick system — research project at Telos.
 </td>
 </tr>
 </table>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>

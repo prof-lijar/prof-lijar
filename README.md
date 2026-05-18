@@ -18,12 +18,6 @@ focus: AI systems, product engineering, and automation
 mission: Solve real problems with useful software
 ```
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-lijar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</div>
-
----
-
 <!-- Current Work -->
 ## `> cat current_projects.md`
 

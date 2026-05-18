@@ -1,10 +1,6 @@
 <div align="center">
 
-# prof-lijar
-
 ### You have problems unsolved? We can be friends.
-
-Software engineer building practical systems with AI, product thinking, and clean execution.
 
 </div>
 

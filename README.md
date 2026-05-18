@@ -2,6 +2,8 @@
 
 ### You have problems unsolved? We can be friends.
 
+[James Blunt - You Are So Beautiful](https://youtu.be/oofSnsGkops?si=iAD3ldYFkP6_IZpS) · [Eagles - Hotel California](https://youtu.be/09839DpTctU?si=AxOxsC8KtEbsJSKd)
+
 </div>
 
 ## Current Projects
@@ -22,8 +24,3 @@ Vision-guided robot pick system — research project at Telos.
 </td>
 </tr>
 </table>
-
-## Music
-
-- James Blunt - You Are So Beautiful
-- Eagles - Hotel California

@@ -22,3 +22,8 @@ Vision-guided robot pick system — research project at Telos.
 </td>
 </tr>
 </table>
+
+## Music
+
+- James Blunt - You Are So Beautiful
+- Eagles - Hotel California

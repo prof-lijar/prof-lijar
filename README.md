@@ -8,10 +8,6 @@ Software engineer building practical systems with AI, product thinking, and clea
 
 </div>
 
-## About
-
-I build AI systems, product features, and automation that solve real problems without unnecessary noise.
-
 ## Current Projects
 
 <table>

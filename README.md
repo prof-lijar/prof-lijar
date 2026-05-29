@@ -9,7 +9,6 @@
 [James Blunt - You Are So Beautiful](https://youtu.be/oofSnsGkops?si=iAD3ldYFkP6_IZpS) · [Eagles - Hotel California](https://youtu.be/09839DpTctU?si=AxOxsC8KtEbsJSKd)
 
 🎬 Good Will Hunting · The Notebook · Before Sunrise
-🎶 ABBA · ColdPlay · Eminem
 
 </div>
 

@@ -10,7 +10,6 @@
 
 🎬 Good Will Hunting · The Notebook · Before Sunrise
 
-(running + reading + writing + loving) * music = human
 
 </div>
 

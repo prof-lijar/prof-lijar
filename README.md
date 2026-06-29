@@ -5,6 +5,7 @@
 **Orchestor**
 
 ### You have problems unsolved? We can be friends.
+### I cannot be creative without having fun.
 
 [James Blunt - You Are So Beautiful](https://youtu.be/oofSnsGkops?si=iAD3ldYFkP6_IZpS) · [Eagles - Hotel California](https://youtu.be/09839DpTctU?si=AxOxsC8KtEbsJSKd)
 

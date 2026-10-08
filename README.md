@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Orchestor — You have problems unsolved? We can be friends. iT'S IMPOSSIBLE tO bE cREATIVE without having fuN." width="100%">
+<img src="./assets/hero.png" alt="You have problems unsolved? We can be friends. iT'S IMPOSSIBLE tO bE cREATIVE without having fuN." width="100%">
 
 [James Blunt - You Are So Beautiful](https://youtu.be/oofSnsGkops?si=iAD3ldYFkP6_IZpS) · [Eagles - Hotel California](https://youtu.be/09839DpTctU?si=AxOxsC8KtEbsJSKd)
 
